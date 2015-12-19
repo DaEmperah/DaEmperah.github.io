@@ -70,3 +70,12 @@ body {
 .icon-menu i {
   margin-right: 5px;
 }
+
+.learn-more {
+	background: #ffdb4c;
+	color: #ffffff;
+	height: 300px;
+	position: relative;
+	top: 50%;
+	transform: 			translateY(-50%);
+}
